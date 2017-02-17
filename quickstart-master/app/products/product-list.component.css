@@ -1,0 +1,32 @@
+ .welcome h1 {
+     color: dodgerblue;
+     font: large;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+     margin: 30px;
+ }
+ 
+ thead {
+     color: #337AB7;
+     font-size: 20px;
+ }
+ 
+ td {
+     font-size: 15px;
+ }
+ 
+ #filby {
+     font-size: 20px;
+ }
+ 
+ #inputtext {
+     font-size: 20px;
+ }
+ 
+ nav {
+     margin-bottom: 40px;
+ }
+ 
+ .nav a {
+     font-size: 15px;
+ }

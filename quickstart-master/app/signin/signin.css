@@ -1,0 +1,23 @@
+ h1 {
+     color: dodgerblue;
+     font: large;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+ }
+ 
+ h2 {
+     color: #369;
+ }
+ 
+ .alert {
+     text-align: center;
+     margin-top: 20px;
+ }
+ 
+ input {
+     margin-top: 20px;
+ }
+ 
+ button {
+     margin-top: 20px;
+ }
